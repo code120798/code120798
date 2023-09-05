@@ -11,7 +11,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-Hi there! I am a passionate Junior Front-end Developer with experience in developing and implementing user-friendly websites. My expertise lies in HTML, CSS, and JavaScript. I enjoy collaborating with designers and developers to create visually stunning and efficient websites that provide an exceptional user experience. When I'm not coding, you can find me exploring the great outdoors or trying new coffee shops.
+Welcome to my profile! I recently graduated with a diploma in Front End Development - HTML, CSS and Javascript as well as using Github to store my repositories. I am able to present clean and re-usable code along with clear comments that explains my code for anyone to understand. I have excellent communication skills that I developed working in the Hospitality industry for 6 years. I am open to learning and developing new skills. I have built 3 projects as part of my course and I have enrolled onto another course on Udemy to practice and increase my skills. Currently seeking an opportunity to work as a Junior Front End Developer!
 
 ### :hammer_and_wrench: Languages and Tools :
 
